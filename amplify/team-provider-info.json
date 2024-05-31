@@ -10,6 +10,11 @@
       "StackName": "amplify-reactquizapp-dev-42c4e",
       "StackId": "arn:aws:cloudformation:us-east-1:204236710416:stack/amplify-reactquizapp-dev-42c4e/5b1f3eb0-1f4a-11ef-be21-0e392ac319b3",
       "AmplifyAppId": "d295r2zxinhe50"
+    },
+    "categories": {
+      "auth": {
+        "reactquizapp0f367329": {}
+      }
     }
   }
 }
